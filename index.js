@@ -1,3 +1,3 @@
 // add solution here
-arrayMusicians = [];
+arrayMusicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 arrayInstruments = [];
